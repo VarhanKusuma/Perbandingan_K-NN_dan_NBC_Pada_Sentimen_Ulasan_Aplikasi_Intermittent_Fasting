@@ -1,2 +1,1 @@
-# Perbandingan_K-NN_dan_NBC_Pada_Sentimen_Ulasan_Aplikasi_Intermittent_Fasting
-SKRIPSI
+# SKRIPSI
